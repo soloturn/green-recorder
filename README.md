@@ -62,7 +62,7 @@ Fedora 29 package is WIP.
 
 You can install Green recorder using your [AUR helper](https://wiki.archlinux.org/index.php/AUR_helpers):
 
-    yaourt -S green-recorder-git
+    yay -S green-recorder-git
 
 ### Other Distributions
 
